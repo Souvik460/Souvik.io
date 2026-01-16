@@ -1,0 +1,8 @@
+{
+  "name": "Souvik.io - AI Web Playground",
+  "description": "A beginner-friendly online code editor with AI-powered assistance, live preview, and easy extension/CDN management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
